@@ -77,4 +77,5 @@ Solution: Customize fitness plans for male patients, and encourage routine healt
 
 
 Power-BI Dashboard:https://github.com/RahulGRAIKAR/Power-BI-Dashboard_-Health-Care_-Analysis/blob/main/Power-BI%20Dashboard_HealthCare_full_Analysis.pbix
-Dasboard Image:https://github.com/RahulGRAIKAR/Power-BI-Dashboard_-Health-Care_-Analysis/blob/main/Health%20Care%20Dashboard.PNG
+
+Dasboard Image:  https://github.com/RahulGRAIKAR/Power-BI-Dashboard_-Health-Care_-Analysis/blob/main/Health%20Care%20Dashboard.PNG
