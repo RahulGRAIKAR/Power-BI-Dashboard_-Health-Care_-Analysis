@@ -76,4 +76,4 @@ Insight: Male overweight patients have the highest average weight (75 units).
 Solution: Customize fitness plans for male patients, and encourage routine health checkups.
 
 
-https://github.com/RahulGRAIKAR/Power-BI-Dashboard_-Health-Care_-Analysis/blob/main/Power-BI%20Dashboard_HealthCare_full_Analysis.pbix
+Power-BI Dashboard:https://github.com/RahulGRAIKAR/Power-BI-Dashboard_-Health-Care_-Analysis/blob/main/Power-BI%20Dashboard_HealthCare_full_Analysis.pbix
